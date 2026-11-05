@@ -1,3 +1,9 @@
-body {
-    font-family: Arial, sans-serif;
+h1 {
+  color: #c0392b;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style: square;
+  padding-left: 24px;
 }
